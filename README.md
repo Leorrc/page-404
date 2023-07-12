@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
-<h2 align="center">Originalmente, o pessoal faz com HTML, CSS e JS puro, mas eu adaptei usando o react/vite com tailwindcss💜  </h2>
+<h3 align="center">💡Originalmente, o pessoal faz com HTML, CSS e JS puro, mas eu adaptei usando o react/vite com tailwindcss💜  </h3>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
