@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="50%">
-  <img src=".github/gif.gif" width="50%">
+  <img src=".github/preview.jpg" width="70%">
+  <img src=".github/gif.gif" width="70%">
 </p>
 
 ## 🚀 Tecnologias
