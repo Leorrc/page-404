@@ -1,8 +1,8 @@
 
 export function App() {
   return (
-    <div className="grid grid-cols-2 content-center h-screen py-0 px-40">
-      <main className="fr-1 max-w-[23.75rem] text-[#D6D6F2] ">
+    <div className="grid grid-cols-1 place-content-center xl:grid-cols-2 h-full w-full content-center min-h-screen py-0 px-4 xl:px-40">
+      <main className="fr-1 max-w-[23.75rem] text-[#D6D6F2]">
 
         <h1 className="text-[2.5rem]/[120%]">Ops, página não foi encontrada</h1>
 
